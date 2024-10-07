@@ -1,0 +1,590 @@
+{
+    "WTD160WCS": {
+        "prices_urls": [
+            {
+                "price": 1180.36,
+                "url": "https://www.euronics.de/xxl-gera-maxi-media/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1322.1,
+                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1340.1,
+                "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1385.1,
+                "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1394.1,
+                "url": "https://www.euronics.de/xxl-bayreuth-baumann/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1412.99,
+                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1421.1,
+                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/wittenberg-schnee/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/xxl-geretsried-isartaler-elektromarkt/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1440.0,
+                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1457.1,
+                "url": "https://www.euronics.de/xxl-doebeln/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1457.1,
+                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1457.1,
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1457.1,
+                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1457.1,
+                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1475.36,
+                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1484.1,
+                "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1484.1,
+                "url": "https://www.euronics.de/meerbusch-hartwig/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1484.1,
+                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/aue-weichhold/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/trocknen/waschtrockner"
+            }
+        ]
+    },
+    "WTR870WPM": {
+        "prices_urls": [
+            {
+                "price": 1880.1,
+                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1979.1,
+                "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1979.1,
+                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1997.1,
+                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1998.0,
+                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2006.1,
+                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2024.1,
+                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2042.1,
+                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2045.7,
+                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2051.1,
+                "url": "https://www.euronics.de/xxl-brackenheim-federmann/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2069.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2069.1,
+                "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2069.1,
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2069.1,
+                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2069.1,
+                "url": "https://www.euronics.de/xxl-oehringen/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2114.1,
+                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2123.1,
+                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2141.1,
+                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2177.1,
+                "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/trocknen/waschtrockner"
+            }
+        ]
+    },
+    "WTW870WPM": {
+        "prices_urls": [
+            {
+                "price": 2159.1,
+                "url": "https://www.euronics.de/xxl-zeitz-maxi-media/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2159.1,
+                "url": "https://www.euronics.de/xxl-glauchau-maxi-media/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2159.1,
+                "url": "https://www.euronics.de/xxl-gera-maxi-media/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2177.1,
+                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2249.1,
+                "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2267.1,
+                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2303.1,
+                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2312.1,
+                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2312.1,
+                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2312.1,
+                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2312.1,
+                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2330.99,
+                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2339.1,
+                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2339.1,
+                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2393.1,
+                "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2429.1,
+                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2429.1,
+                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2465.1,
+                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2519.1,
+                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/trocknen/waschtrockner"
+            }
+        ]
+    },
+    "WTR860WPM": {
+        "prices_urls": [
+            {
+                "price": 1880.1,
+                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1979.1,
+                "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2006.1,
+                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2006.1,
+                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2042.99,
+                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2051.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2069.1,
+                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2069.1,
+                "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2069.1,
+                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2069.1,
+                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2096.1,
+                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2096.1,
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2096.1,
+                "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2096.1,
+                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2096.36,
+                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2114.1,
+                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2123.1,
+                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2141.1,
+                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2177.1,
+                "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 2177.1,
+                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/trocknen/waschtrockner"
+            }
+        ]
+    },
+    "WTI360WPM": {
+        "prices_urls": [
+            {
+                "price": 1655.1,
+                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1763.1,
+                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1799.1,
+                "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1817.1,
+                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1826.1,
+                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1844.09,
+                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1844.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1844.1,
+                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1844.1,
+                "url": "https://www.euronics.de/xxl-radeberg-frequenz/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1871.1,
+                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1889.1,
+                "url": "https://www.euronics.de/dresden-girrbach-haustechnik/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1898.1,
+                "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1925.1,
+                "url": "https://www.euronics.de/xxl-delbrueck/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1925.1,
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1934.1,
+                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1943.1,
+                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1943.1,
+                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1997.1,
+                "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1997.1,
+                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1997.1,
+                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1997.1,
+                "url": "https://www.euronics.de/tuebingen-betz/markenwelt/miele/trocknen/waschtrockner"
+            }
+        ]
+    },
+    "WTD165WPM": {
+        "prices_urls": [
+            {
+                "price": 1253.19,
+                "url": "https://www.euronics.de/xxl-gera-maxi-media/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1260.0,
+                "url": "https://www.euronics.de/xxl-vilshofen-menth/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1340.99,
+                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1394.1,
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/xxl-bayreuth-baumann/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1484.1,
+                "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1484.1,
+                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1493.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1502.1,
+                "url": "https://www.euronics.de/xxl-soltau/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1502.1,
+                "url": "https://www.euronics.de/xxl-warstein-eickhoff/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1502.1,
+                "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/xxl-naumburg/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/xxl-hoheneggelsen/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/xxl-oehringen/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1574.1,
+                "url": "https://www.euronics.de/xxl-geislingen-albmarkt/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1583.1,
+                "url": "https://www.euronics.de/xxl-einbeck/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1601.1,
+                "url": "https://www.euronics.de/hagen-berlet/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1601.1,
+                "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1601.1,
+                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1601.1,
+                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1601.1,
+                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/trocknen/waschtrockner"
+            }
+        ]
+    },
+    "WTD280WCS": {
+        "prices_urls": [
+            {
+                "price": 1349.97,
+                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/trocknen/waschtrockner"
+            },
+            {
+                "price": 1565.1,
+                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/trocknen/waschtrockner"
+            }
+        ]
+    },
+    "WTD163WCS": {
+        "prices_urls": [
+            {
+                "price": 1475.1,
+                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/trocknen/waschtrockner"
+            }
+        ]
+    }
+}
