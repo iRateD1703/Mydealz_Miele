@@ -2,6 +2,10 @@
     "WWB360WPS": {
         "prices_urls": [
             {
+                "price": 746.01,
+                "url": "https://www.euronics.de/xxl-zeitz-maxi-media/markenwelt/miele/waschen"
+            },
+            {
                 "price": 872.1,
                 "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
             },
@@ -23,27 +27,11 @@
             },
             {
                 "price": 899.1,
-                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
-            },
-            {
-                "price": 899.1,
                 "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/waschen"
             },
             {
                 "price": 899.1,
                 "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/waschen"
-            },
-            {
-                "price": 899.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
-            },
-            {
-                "price": 899.1,
-                "url": "https://www.euronics.de/xxl-geretsried-isartaler-elektromarkt/markenwelt/miele/waschen"
-            },
-            {
-                "price": 917.1,
-                "url": "https://www.euronics.de/goch-thonnet/markenwelt/miele/waschen"
             },
             {
                 "price": 926.1,
@@ -79,6 +67,10 @@
             },
             {
                 "price": 926.1,
+                "url": "https://www.euronics.de/goch-thonnet/markenwelt/miele/waschen"
+            },
+            {
+                "price": 926.1,
                 "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/waschen"
             },
             {
@@ -96,10 +88,6 @@
             {
                 "price": 926.1,
                 "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
-            },
-            {
-                "price": 926.1,
-                "url": "https://www.euronics.de/xxl-freyung-lindbuechl/markenwelt/miele/waschen"
             },
             {
                 "price": 935.1,
@@ -162,18 +150,6 @@
                 "url": "https://www.euronics.de/mainz-bauer/markenwelt/miele/waschen"
             },
             {
-                "price": 953.1,
-                "url": "https://www.euronics.de/meerbusch-hartwig/markenwelt/miele/waschen"
-            },
-            {
-                "price": 953.99,
-                "url": "https://www.euronics.de/xxl-zeitz-maxi-media/markenwelt/miele/waschen"
-            },
-            {
-                "price": 953.99,
-                "url": "https://www.euronics.de/xxl-glauchau-maxi-media/markenwelt/miele/waschen"
-            },
-            {
                 "price": 953.99,
                 "url": "https://www.euronics.de/xxl-gera-maxi-media/markenwelt/miele/waschen"
             }
@@ -188,6 +164,10 @@
             {
                 "price": 1349.1,
                 "url": "https://www.euronics.de/xxl-tettnang/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1394.1,
+                "url": "https://www.euronics.de/wittenberg-schnee/markenwelt/miele/waschen"
             },
             {
                 "price": 1439.1,
@@ -210,10 +190,6 @@
                 "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/waschen"
             },
             {
-                "price": 1439.1,
-                "url": "https://www.euronics.de/dingolfing-widbiller/markenwelt/miele/waschen"
-            },
-            {
                 "price": 1448.1,
                 "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
             },
@@ -232,14 +208,6 @@
             {
                 "price": 1493.1,
                 "url": "https://www.euronics.de/beckum-pelkmann/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1511.1,
-                "url": "https://www.euronics.de/wittenberg-schnee/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1511.1,
-                "url": "https://www.euronics.de/tuebingen-betz/markenwelt/miele/waschen"
             },
             {
                 "price": 1529.1,
@@ -530,26 +498,6 @@
                 "url": "https://www.euronics.de/xxl-einbeck/markenwelt/miele/waschen"
             },
             {
-                "price": 1099.8,
-                "url": "https://www.euronics.de/xxl-freyung-lindbuechl/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1099.8,
-                "url": "https://www.euronics.de/meerbusch-hartwig/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1099.8,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1099.8,
-                "url": "https://www.euronics.de/xxl-geretsried-isartaler-elektromarkt/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1106.1,
-                "url": "https://www.euronics.de/dingolfing-widbiller/markenwelt/miele/waschen"
-            },
-            {
                 "price": 1107.0,
                 "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
             },
@@ -614,8 +562,8 @@
                 "url": "https://www.euronics.de/mainz-bauer/markenwelt/miele/waschen"
             },
             {
-                "price": 674.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
+                "price": 674.99,
+                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/waschen"
             },
             {
                 "price": 710.1,
@@ -624,14 +572,6 @@
             {
                 "price": 710.1,
                 "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
-            },
-            {
-                "price": 719.09,
-                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/waschen"
-            },
-            {
-                "price": 719.09,
-                "url": "https://www.euronics.de/hamm-hensel/markenwelt/miele/waschen"
             },
             {
                 "price": 719.1,
@@ -687,10 +627,6 @@
             },
             {
                 "price": 719.1,
-                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
-            },
-            {
-                "price": 719.1,
                 "url": "https://www.euronics.de/nordwalde-fissmann/markenwelt/miele/waschen"
             },
             {
@@ -734,6 +670,10 @@
                 "url": "https://www.euronics.de/achern-schindler/markenwelt/miele/waschen"
             },
             {
+                "price": 746.99,
+                "url": "https://www.euronics.de/hamm-hensel/markenwelt/miele/waschen"
+            },
+            {
                 "price": 755.1,
                 "url": "https://www.euronics.de/herdorf-orlik/markenwelt/miele/waschen"
             },
@@ -774,10 +714,6 @@
                 "url": "https://www.euronics.de/collenberg-pfeifer/markenwelt/miele/waschen"
             },
             {
-                "price": 764.1,
-                "url": "https://www.euronics.de/dingolfing-widbiller/markenwelt/miele/waschen"
-            },
-            {
                 "price": 764.99,
                 "url": "https://www.euronics.de/hettstedt-walbeck-elektrofunk/markenwelt/miele/waschen"
             },
@@ -798,10 +734,6 @@
                 "url": "https://www.euronics.de/butzbach-hilgenberg/markenwelt/miele/waschen"
             },
             {
-                "price": 791.1,
-                "url": "https://www.euronics.de/tuebingen-betz/markenwelt/miele/waschen"
-            },
-            {
                 "price": 809.1,
                 "url": "https://www.euronics.de/xxl-naumburg/markenwelt/miele/waschen"
             },
@@ -816,14 +748,6 @@
             {
                 "price": 809.1,
                 "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
-            },
-            {
-                "price": 809.1,
-                "url": "https://www.euronics.de/meerbusch-hartwig/markenwelt/miele/waschen"
-            },
-            {
-                "price": 809.1,
-                "url": "https://www.euronics.de/oelde-busch/markenwelt/miele/waschen"
             }
         ]
     },
@@ -858,14 +782,6 @@
                 "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
             },
             {
-                "price": 899.1,
-                "url": "https://www.euronics.de/meerbusch-hartwig/markenwelt/miele/waschen"
-            },
-            {
-                "price": 899.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
-            },
-            {
                 "price": 926.1,
                 "url": "https://www.euronics.de/schmallenberg-pletzinger/markenwelt/miele/waschen"
             },
@@ -896,10 +812,6 @@
             {
                 "price": 935.1,
                 "url": "https://www.euronics.de/nordwalde-fissmann/markenwelt/miele/waschen"
-            },
-            {
-                "price": 935.1,
-                "url": "https://www.euronics.de/dingolfing-widbiller/markenwelt/miele/waschen"
             },
             {
                 "price": 944.1,
@@ -976,10 +888,6 @@
             {
                 "price": 989.1,
                 "url": "https://www.euronics.de/collenberg-pfeifer/markenwelt/miele/waschen"
-            },
-            {
-                "price": 989.1,
-                "url": "https://www.euronics.de/oelde-busch/markenwelt/miele/waschen"
             }
         ]
     },
@@ -1008,6 +916,10 @@
             {
                 "price": 908.1,
                 "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
+            },
+            {
+                "price": 944.1,
+                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
             },
             {
                 "price": 944.1,
@@ -1063,102 +975,6 @@
             }
         ]
     },
-    "WWD320WPS": {
-        "prices_urls": [
-            {
-                "price": 971.1,
-                "url": "https://www.euronics.de/xxl-tettnang/markenwelt/miele/waschen"
-            },
-            {
-                "price": 971.1,
-                "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1034.09,
-                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/xxl-ratingen-johann-und-wittmer/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1052.1,
-                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1052.1,
-                "url": "https://www.euronics.de/schwaebisch-hall-wolpert/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1052.1,
-                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1052.1,
-                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1061.1,
-                "url": "https://www.euronics.de/lingen-lengerich/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1061.1,
-                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1061.1,
-                "url": "https://www.euronics.de/hagen-berlet/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1061.1,
-                "url": "https://www.euronics.de/bretten-mescher/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1061.1,
-                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1061.1,
-                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1061.1,
-                "url": "https://www.euronics.de/xxl-zeven/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1061.1,
-                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1061.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1079.1,
-                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1079.1,
-                "url": "https://www.euronics.de/bruckmuehl-zobel/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1115.1,
-                "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1115.1,
-                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
-            }
-        ]
-    },
     "WCR890WPS": {
         "prices_urls": [
             {
@@ -1198,14 +1014,6 @@
                 "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
             },
             {
-                "price": 1979.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
-            },
-            {
-                "price": 2006.1,
-                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
-            },
-            {
                 "price": 2024.1,
                 "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/waschen"
             },
@@ -1216,6 +1024,10 @@
             {
                 "price": 2033.1,
                 "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
+            },
+            {
+                "price": 2033.1,
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
             },
             {
                 "price": 2033.1,
@@ -1260,10 +1072,6 @@
             {
                 "price": 1043.1,
                 "url": "https://www.euronics.de/schmallenberg-pletzinger/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
             },
             {
                 "price": 1052.1,
@@ -1335,6 +1143,78 @@
             }
         ]
     },
+    "WWD320WPS": {
+        "prices_urls": [
+            {
+                "price": 971.1,
+                "url": "https://www.euronics.de/xxl-tettnang/markenwelt/miele/waschen"
+            },
+            {
+                "price": 971.1,
+                "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
+            },
+            {
+                "price": 989.1,
+                "url": "https://www.euronics.de/hagen-berlet/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1034.09,
+                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1052.1,
+                "url": "https://www.euronics.de/xxl-ratingen-johann-und-wittmer/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1052.1,
+                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1052.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1052.1,
+                "url": "https://www.euronics.de/schwaebisch-hall-wolpert/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1052.1,
+                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1061.1,
+                "url": "https://www.euronics.de/lingen-lengerich/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1061.1,
+                "url": "https://www.euronics.de/bretten-mescher/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1061.1,
+                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1061.1,
+                "url": "https://www.euronics.de/xxl-zeven/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1061.1,
+                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1079.1,
+                "url": "https://www.euronics.de/bruckmuehl-zobel/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1115.1,
+                "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1115.1,
+                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
+            }
+        ]
+    },
     "WWG660WCS": {
         "prices_urls": [
             {
@@ -1352,10 +1232,6 @@
             {
                 "price": 1170.0,
                 "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1259.1,
-                "url": "https://www.euronics.de/oelde-busch/markenwelt/miele/waschen"
             }
         ]
     },
@@ -1423,6 +1299,10 @@
             },
             {
                 "price": 809.1,
+                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
+            },
+            {
+                "price": 809.1,
                 "url": "https://www.euronics.de/beckum-pelkmann/markenwelt/miele/waschen"
             },
             {
@@ -1467,6 +1347,10 @@
             },
             {
                 "price": 809.1,
+                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
+            },
+            {
+                "price": 809.1,
                 "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/waschen"
             },
             {
@@ -1498,18 +1382,6 @@
                 "url": "https://www.euronics.de/mainz-bauer/markenwelt/miele/waschen"
             },
             {
-                "price": 809.1,
-                "url": "https://www.euronics.de/xxl-freyung-lindbuechl/markenwelt/miele/waschen"
-            },
-            {
-                "price": 809.1,
-                "url": "https://www.euronics.de/krefeld-hgs/markenwelt/miele/waschen"
-            },
-            {
-                "price": 809.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
-            },
-            {
                 "price": 809.36,
                 "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
             },
@@ -1522,24 +1394,12 @@
                 "url": "https://www.euronics.de/xxl-lauterbach/markenwelt/miele/waschen"
             },
             {
-                "price": 810.9,
-                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
-            },
-            {
-                "price": 818.1,
-                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
-            },
-            {
-                "price": 818.96,
-                "url": "https://www.euronics.de/xxl-ratingen-johann-und-wittmer/markenwelt/miele/waschen"
-            },
-            {
-                "price": 818.96,
-                "url": "https://www.euronics.de/goch-thonnet/markenwelt/miele/waschen"
+                "price": 818.99,
+                "url": "https://www.euronics.de/xxl-delbrueck/markenwelt/miele/waschen"
             },
             {
                 "price": 818.99,
-                "url": "https://www.euronics.de/xxl-delbrueck/markenwelt/miele/waschen"
+                "url": "https://www.euronics.de/xxl-ratingen-johann-und-wittmer/markenwelt/miele/waschen"
             },
             {
                 "price": 818.99,
@@ -1548,6 +1408,10 @@
             {
                 "price": 818.99,
                 "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
+            },
+            {
+                "price": 818.99,
+                "url": "https://www.euronics.de/goch-thonnet/markenwelt/miele/waschen"
             },
             {
                 "price": 827.1,
@@ -1582,10 +1446,6 @@
                 "url": "https://www.euronics.de/xxl-vilshofen-menth/markenwelt/miele/waschen"
             },
             {
-                "price": 854.1,
-                "url": "https://www.euronics.de/meerbusch-hartwig/markenwelt/miele/waschen"
-            },
-            {
                 "price": 863.1,
                 "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/waschen"
             },
@@ -1600,138 +1460,6 @@
             {
                 "price": 863.1,
                 "url": "https://www.euronics.de/xxl-einbeck/markenwelt/miele/waschen"
-            },
-            {
-                "price": 863.1,
-                "url": "https://www.euronics.de/oelde-busch/markenwelt/miele/waschen"
-            }
-        ]
-    },
-    "WWR860WPS": {
-        "prices_urls": [
-            {
-                "price": 1529.1,
-                "url": "https://www.euronics.de/xxl-langenfeld-radio-city/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1530.0,
-                "url": "https://www.euronics.de/xxl-vilshofen-menth/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1573.2,
-                "url": "https://www.euronics.de/xxl-warstein-eickhoff/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1574.1,
-                "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1583.1,
-                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1583.1,
-                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1592.1,
-                "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1601.1,
-                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1610.1,
-                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1610.1,
-                "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1610.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1619.1,
-                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1619.1,
-                "url": "https://www.euronics.de/sulz-hettich/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1619.1,
-                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1628.99,
-                "url": "https://www.euronics.de/xxl-lauterbach/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1637.1,
-                "url": "https://www.euronics.de/xxl-fulda-efm/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1637.1,
-                "url": "https://www.euronics.de/xxl-doebeln/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1637.1,
-                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1637.1,
-                "url": "https://www.euronics.de/schwaebisch-hall-wolpert/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1637.1,
-                "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1637.1,
-                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1646.1,
-                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1660.5,
-                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1664.1,
-                "url": "https://www.euronics.de/xxl-mechernich-kommern-urfey/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1664.1,
-                "url": "https://www.euronics.de/neubrandenburg-nehls/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1664.1,
-                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1664.1,
-                "url": "https://www.euronics.de/butzbach-hilgenberg/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1691.1,
-                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1691.1,
-                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1709.1,
-                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1745.1,
-                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
             }
         ]
     },
@@ -1760,10 +1488,6 @@
             {
                 "price": 1232.1,
                 "url": "https://www.euronics.de/xxl-haag-durmeier/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1232.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
             },
             {
                 "price": 1241.1,
@@ -1843,102 +1567,6 @@
             },
             {
                 "price": 1331.1,
-                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
-            }
-        ]
-    },
-    "WCI890WPS": {
-        "prices_urls": [
-            {
-                "price": 1394.1,
-                "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1394.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1439.1,
-                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1439.1,
-                "url": "https://www.euronics.de/xxl-mechernich-kommern-urfey/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1439.1,
-                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1439.1,
-                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1439.1,
-                "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1448.1,
-                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1454.4,
-                "url": "https://www.euronics.de/beckum-pelkmann/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1457.1,
-                "url": "https://www.euronics.de/xxl-fulda-efm/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1457.1,
-                "url": "https://www.euronics.de/xxl-moelln-otto/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1457.1,
-                "url": "https://www.euronics.de/xxl-merzig-funk/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1457.1,
-                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1457.1,
-                "url": "https://www.euronics.de/kassel-schaefer/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1457.1,
-                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1466.1,
-                "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1466.1,
-                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1466.1,
-                "url": "https://www.euronics.de/butzbach-hilgenberg/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1484.1,
-                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1511.1,
-                "url": "https://www.euronics.de/herdorf-orlik/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1511.1,
-                "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1511.1,
-                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1511.1,
                 "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
             }
         ]
@@ -2040,10 +1668,6 @@
             {
                 "price": 1043.1,
                 "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/oelde-busch/markenwelt/miele/waschen"
             }
         ]
     },
@@ -2060,18 +1684,6 @@
             {
                 "price": 962.1,
                 "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/waschen"
-            },
-            {
-                "price": 971.1,
-                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
-            },
-            {
-                "price": 971.1,
-                "url": "https://www.euronics.de/goch-thonnet/markenwelt/miele/waschen"
-            },
-            {
-                "price": 971.1,
-                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
             },
             {
                 "price": 980.1,
@@ -2091,10 +1703,6 @@
             },
             {
                 "price": 989.1,
-                "url": "https://www.euronics.de/xxl-delbrueck/markenwelt/miele/waschen"
-            },
-            {
-                "price": 989.1,
                 "url": "https://www.euronics.de/schmallenberg-pletzinger/markenwelt/miele/waschen"
             },
             {
@@ -2107,6 +1715,10 @@
             },
             {
                 "price": 989.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
+            },
+            {
+                "price": 989.1,
                 "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
             },
             {
@@ -2115,7 +1727,11 @@
             },
             {
                 "price": 989.1,
-                "url": "https://www.euronics.de/xxl-soltau/markenwelt/miele/waschen"
+                "url": "https://www.euronics.de/goch-thonnet/markenwelt/miele/waschen"
+            },
+            {
+                "price": 989.1,
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
             },
             {
                 "price": 989.1,
@@ -2130,8 +1746,12 @@
                 "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/waschen"
             },
             {
-                "price": 989.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
+                "price": 998.1,
+                "url": "https://www.euronics.de/xxl-delbrueck/markenwelt/miele/waschen"
+            },
+            {
+                "price": 998.1,
+                "url": "https://www.euronics.de/xxl-soltau/markenwelt/miele/waschen"
             },
             {
                 "price": 1007.1,
@@ -2156,10 +1776,6 @@
             {
                 "price": 1394.1,
                 "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1394.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
             },
             {
                 "price": 1403.1,
@@ -2191,10 +1807,6 @@
             },
             {
                 "price": 1448.1,
-                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1448.1,
                 "url": "https://www.euronics.de/hamm-hensel/markenwelt/miele/waschen"
             },
             {
@@ -2207,15 +1819,11 @@
             },
             {
                 "price": 1457.1,
-                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
             },
             {
                 "price": 1457.1,
                 "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1457.1,
-                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
             },
             {
                 "price": 1466.1,
@@ -2247,6 +1855,130 @@
             }
         ]
     },
+    "WWR860WPS": {
+        "prices_urls": [
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/xxl-langenfeld-radio-city/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1530.0,
+                "url": "https://www.euronics.de/xxl-vilshofen-menth/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1573.2,
+                "url": "https://www.euronics.de/xxl-warstein-eickhoff/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1574.1,
+                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1574.1,
+                "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1583.1,
+                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1583.1,
+                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1592.1,
+                "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1601.1,
+                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1610.1,
+                "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1619.1,
+                "url": "https://www.euronics.de/sulz-hettich/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1619.1,
+                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1628.99,
+                "url": "https://www.euronics.de/xxl-lauterbach/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1637.1,
+                "url": "https://www.euronics.de/xxl-fulda-efm/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1637.1,
+                "url": "https://www.euronics.de/xxl-doebeln/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1637.1,
+                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1637.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1637.1,
+                "url": "https://www.euronics.de/schwaebisch-hall-wolpert/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1637.1,
+                "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1637.1,
+                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1646.1,
+                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1660.5,
+                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1664.1,
+                "url": "https://www.euronics.de/xxl-mechernich-kommern-urfey/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1664.1,
+                "url": "https://www.euronics.de/neubrandenburg-nehls/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1664.1,
+                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1664.1,
+                "url": "https://www.euronics.de/butzbach-hilgenberg/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1691.1,
+                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1691.1,
+                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1709.1,
+                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1745.1,
+                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
+            }
+        ]
+    },
     "WCR870WPS": {
         "prices_urls": [
             {
@@ -2266,18 +1998,6 @@
                 "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
             },
             {
-                "price": 1619.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1628.1,
-                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1628.1,
-                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
-            },
-            {
                 "price": 1637.1,
                 "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
             },
@@ -2291,15 +2011,19 @@
             },
             {
                 "price": 1655.1,
-                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
             },
             {
                 "price": 1655.1,
-                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
             },
             {
                 "price": 1664.1,
                 "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1664.1,
+                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
             },
             {
                 "price": 1664.1,
@@ -2308,6 +2032,10 @@
             {
                 "price": 1664.1,
                 "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1664.1,
+                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
             },
             {
                 "price": 1691.1,
@@ -2351,10 +2079,6 @@
             },
             {
                 "price": 1295.1,
-                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1295.1,
                 "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
             },
             {
@@ -2362,8 +2086,8 @@
                 "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/waschen"
             },
             {
-                "price": 1304.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
+                "price": 1313.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
             },
             {
                 "price": 1313.1,
@@ -2411,88 +2135,92 @@
             }
         ]
     },
-    "WCG660WPS": {
+    "WCI860WPS": {
         "prices_urls": [
             {
-                "price": 1213.2,
-                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
+                "price": 1223.72,
+                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
             },
             {
-                "price": 1214.1,
-                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1214.1,
-                "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1231.2,
-                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1241.1,
-                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1241.1,
-                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1259.1,
-                "url": "https://www.euronics.de/xxl-geislingen-albmarkt/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1259.1,
-                "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1259.1,
-                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1259.1,
-                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1259.1,
-                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1277.1,
-                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1277.1,
+                "price": 1286.1,
                 "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/waschen"
             },
             {
                 "price": 1295.1,
-                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1304.1,
                 "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/waschen"
             },
             {
-                "price": 1304.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
+                "price": 1394.1,
+                "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
             },
             {
-                "price": 1331.1,
+                "price": 1394.1,
+                "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1411.2,
+                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1412.1,
+                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1421.1,
+                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1430.1,
+                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1430.1,
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1430.1,
+                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1439.99,
+                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1457.1,
+                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1475.1,
+                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1511.1,
                 "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/waschen"
             },
             {
-                "price": 1331.1,
+                "price": 1511.1,
                 "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
             }
         ]
     },
     "WWE460WPS": {
         "prices_urls": [
-            {
-                "price": 1079.1,
-                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
-            },
             {
                 "price": 1124.1,
                 "url": "https://www.euronics.de/xxl-vilshofen-menth/markenwelt/miele/waschen"
@@ -2523,6 +2251,10 @@
             },
             {
                 "price": 1169.1,
+                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1169.1,
                 "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/waschen"
             },
             {
@@ -2546,10 +2278,6 @@
                 "url": "https://www.euronics.de/mainz-bauer/markenwelt/miele/waschen"
             },
             {
-                "price": 1169.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
-            },
-            {
                 "price": 1178.1,
                 "url": "https://www.euronics.de/witten-kutsch/markenwelt/miele/waschen"
             },
@@ -2560,10 +2288,6 @@
             {
                 "price": 1187.1,
                 "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1187.1,
-                "url": "https://www.euronics.de/oelde-busch/markenwelt/miele/waschen"
             },
             {
                 "price": 1205.1,
@@ -2590,7 +2314,7 @@
     "WCA032WPS": {
         "prices_urls": [
             {
-                "price": 791.1,
+                "price": 764.1,
                 "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
             },
             {
@@ -2628,10 +2352,6 @@
             {
                 "price": 827.99,
                 "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/waschen"
-            },
-            {
-                "price": 835.2,
-                "url": "https://www.euronics.de/sulz-hettich/markenwelt/miele/waschen"
             },
             {
                 "price": 836.1,
@@ -2674,20 +2394,12 @@
                 "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/waschen"
             },
             {
-                "price": 836.99,
-                "url": "https://www.euronics.de/nordwalde-fissmann/markenwelt/miele/waschen"
-            },
-            {
                 "price": 845.1,
                 "url": "https://www.euronics.de/schmallenberg-pletzinger/markenwelt/miele/waschen"
             },
             {
                 "price": 854.1,
                 "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/waschen"
-            },
-            {
-                "price": 854.1,
-                "url": "https://www.euronics.de/oelde-busch/markenwelt/miele/waschen"
             },
             {
                 "price": 881.1,
@@ -2715,35 +2427,91 @@
             }
         ]
     },
-    "WCB210WCS": {
+    "WCI890WPS": {
         "prices_urls": [
             {
-                "price": 782.1,
+                "price": 1394.1,
                 "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
             },
             {
-                "price": 782.99,
-                "url": "https://www.euronics.de/schmallenberg-pletzinger/markenwelt/miele/waschen"
-            },
-            {
-                "price": 809.1,
+                "price": 1439.1,
                 "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
             },
             {
-                "price": 809.1,
+                "price": 1439.1,
+                "url": "https://www.euronics.de/xxl-mechernich-kommern-urfey/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1454.4,
+                "url": "https://www.euronics.de/beckum-pelkmann/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1457.1,
+                "url": "https://www.euronics.de/xxl-fulda-efm/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1457.1,
+                "url": "https://www.euronics.de/xxl-moelln-otto/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1457.1,
+                "url": "https://www.euronics.de/xxl-merzig-funk/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1457.1,
                 "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/waschen"
             },
             {
-                "price": 809.1,
-                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
+                "price": 1457.1,
+                "url": "https://www.euronics.de/kassel-schaefer/markenwelt/miele/waschen"
             },
             {
-                "price": 809.1,
-                "url": "https://www.euronics.de/burgebrach-ludwig/markenwelt/miele/waschen"
+                "price": 1457.1,
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
             },
             {
-                "price": 809.1,
-                "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/waschen"
+                "price": 1457.1,
+                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1466.1,
+                "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1466.1,
+                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1484.1,
+                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1511.1,
+                "url": "https://www.euronics.de/herdorf-orlik/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1511.1,
+                "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1511.1,
+                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1511.1,
+                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
             }
         ]
     },
@@ -2779,6 +2547,10 @@
             },
             {
                 "price": 854.1,
+                "url": "https://www.euronics.de/hagen-berlet/markenwelt/miele/waschen"
+            },
+            {
+                "price": 854.1,
                 "url": "https://www.euronics.de/xxl-merzig-funk/markenwelt/miele/waschen"
             },
             {
@@ -2802,20 +2574,12 @@
                 "url": "https://www.euronics.de/xxl-vilshofen-menth/markenwelt/miele/waschen"
             },
             {
-                "price": 863.1,
-                "url": "https://www.euronics.de/xxl-freyung-lindbuechl/markenwelt/miele/waschen"
-            },
-            {
                 "price": 863.99,
                 "url": "https://www.euronics.de/beckum-pelkmann/markenwelt/miele/waschen"
             },
             {
                 "price": 863.99,
                 "url": "https://www.euronics.de/burgebrach-ludwig/markenwelt/miele/waschen"
-            },
-            {
-                "price": 863.99,
-                "url": "https://www.euronics.de/goch-thonnet/markenwelt/miele/waschen"
             },
             {
                 "price": 863.99,
@@ -2855,6 +2619,10 @@
             },
             {
                 "price": 872.99,
+                "url": "https://www.euronics.de/goch-thonnet/markenwelt/miele/waschen"
+            },
+            {
+                "price": 872.99,
                 "url": "https://www.euronics.de/xxl-hoheneggelsen/markenwelt/miele/waschen"
             },
             {
@@ -2875,10 +2643,6 @@
             },
             {
                 "price": 899.1,
-                "url": "https://www.euronics.de/hagen-berlet/markenwelt/miele/waschen"
-            },
-            {
-                "price": 899.1,
                 "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
             },
             {
@@ -2892,10 +2656,6 @@
             {
                 "price": 899.1,
                 "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/waschen"
-            },
-            {
-                "price": 899.1,
-                "url": "https://www.euronics.de/meerbusch-hartwig/markenwelt/miele/waschen"
             }
         ]
     },
@@ -2930,14 +2690,6 @@
                 "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/waschen"
             },
             {
-                "price": 2024.1,
-                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
-            },
-            {
-                "price": 2024.1,
-                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
-            },
-            {
                 "price": 2033.1,
                 "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
             },
@@ -2951,6 +2703,10 @@
             },
             {
                 "price": 2051.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
+            },
+            {
+                "price": 2051.1,
                 "url": "https://www.euronics.de/schwaebisch-hall-wolpert/markenwelt/miele/waschen"
             },
             {
@@ -2959,11 +2715,11 @@
             },
             {
                 "price": 2051.1,
-                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
             },
             {
-                "price": 2069.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
+                "price": 2051.1,
+                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
             },
             {
                 "price": 2159.1,
@@ -2971,75 +2727,43 @@
             }
         ]
     },
-    "WWG360WPS": {
+    "WCG660WPS": {
         "prices_urls": [
             {
-                "price": 1196.1,
-                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1196.1,
-                "url": "https://www.euronics.de/schwaebisch-hall-wolpert/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1196.1,
-                "url": "https://www.euronics.de/xxl-tettnang/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1237.5,
-                "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1241.1,
-                "url": "https://www.euronics.de/beckum-pelkmann/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1241.99,
-                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1250.1,
-                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1259.1,
+                "price": 1213.2,
                 "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
             },
             {
-                "price": 1259.1,
-                "url": "https://www.euronics.de/xxl-delbrueck/markenwelt/miele/waschen"
+                "price": 1214.1,
+                "url": "https://www.euronics.de/sinsheim-aberle/markenwelt/miele/waschen"
             },
             {
-                "price": 1259.1,
-                "url": "https://www.euronics.de/xxl-doebeln/markenwelt/miele/waschen"
+                "price": 1231.2,
+                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
             },
             {
-                "price": 1259.1,
-                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
+                "price": 1241.1,
+                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/waschen"
             },
             {
-                "price": 1259.1,
+                "price": 1241.1,
                 "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
             },
             {
                 "price": 1259.1,
-                "url": "https://www.euronics.de/xxl-ahaus-dieker/markenwelt/miele/waschen"
+                "url": "https://www.euronics.de/xxl-geislingen-albmarkt/markenwelt/miele/waschen"
             },
             {
                 "price": 1259.1,
-                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
+                "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1268.1,
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
             },
             {
                 "price": 1277.1,
-                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1277.1,
-                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1277.1,
-                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
+                "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/waschen"
             },
             {
                 "price": 1304.1,
@@ -3048,14 +2772,6 @@
             {
                 "price": 1331.1,
                 "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1331.1,
-                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1331.1,
-                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
             }
         ]
     },
@@ -3068,10 +2784,6 @@
             {
                 "price": 1393.2,
                 "url": "https://www.euronics.de/xxl-bernburg/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1430.1,
-                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
             },
             {
                 "price": 1439.1,
@@ -3103,6 +2815,10 @@
             },
             {
                 "price": 1448.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1448.1,
                 "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
             },
             {
@@ -3119,6 +2835,162 @@
             }
         ]
     },
+    "WEB395WPS": {
+        "prices_urls": [
+            {
+                "price": 981.0,
+                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
+            },
+            {
+                "price": 989.1,
+                "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/waschen"
+            },
+            {
+                "price": 989.1,
+                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/waschen"
+            },
+            {
+                "price": 989.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
+            },
+            {
+                "price": 989.1,
+                "url": "https://www.euronics.de/xxl-ahaus-dieker/markenwelt/miele/waschen"
+            },
+            {
+                "price": 989.1,
+                "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/waschen"
+            },
+            {
+                "price": 989.1,
+                "url": "https://www.euronics.de/xxl-lebach/markenwelt/miele/waschen"
+            },
+            {
+                "price": 989.99,
+                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/waschen"
+            },
+            {
+                "price": 998.1,
+                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/berlin-elektrohaus-mariendorf/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/cloppenburg-schloemer/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/xxl-ratingen-johann-und-wittmer/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/schmallenberg-pletzinger/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/schwaebisch-hall-wolpert/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/burgebrach-ludwig/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/xxl-soltau/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/goch-thonnet/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/xxl-warstein-eickhoff/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/achern-schindler/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/guetersloh-buecker/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.1,
+                "url": "https://www.euronics.de/hamm-hensel/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1016.99,
+                "url": "https://www.euronics.de/xxl-lauterbach/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1034.1,
+                "url": "https://www.euronics.de/beckum-pelkmann/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1034.1,
+                "url": "https://www.euronics.de/dueren-gunkel/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1034.1,
+                "url": "https://www.euronics.de/frankfurt-technikstudio/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1034.36,
+                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1043.1,
+                "url": "https://www.euronics.de/herdorf-orlik/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1043.1,
+                "url": "https://www.euronics.de/herborn-bollmann/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1043.1,
+                "url": "https://www.euronics.de/kirchheim-rembold/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1043.1,
+                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1043.1,
+                "url": "https://www.euronics.de/bersenbrueck-hugenberg/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1043.1,
+                "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1043.1,
+                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1043.1,
+                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1043.1,
+                "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1043.1,
+                "url": "https://www.euronics.de/mainz-bauer/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1079.1,
+                "url": "https://www.euronics.de/xxl-einbeck/markenwelt/miele/waschen"
+            }
+        ]
+    },
     "WEI895WPS": {
         "prices_urls": [
             {
@@ -3128,10 +3000,6 @@
             {
                 "price": 1466.1,
                 "url": "https://www.euronics.de/xxl-waldbroel-bergerhoff/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1475.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
             },
             {
                 "price": 1484.1,
@@ -3155,19 +3023,11 @@
             },
             {
                 "price": 1511.1,
-                "url": "https://www.euronics.de/xxl-ratingen-johann-und-wittmer/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1511.1,
-                "url": "https://www.euronics.de/goch-thonnet/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1511.1,
-                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1511.1,
                 "url": "https://www.euronics.de/xxl-oldenburg-riltec/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1520.1,
+                "url": "https://www.euronics.de/xxl-ratingen-johann-und-wittmer/markenwelt/miele/waschen"
             },
             {
                 "price": 1520.1,
@@ -3179,7 +3039,19 @@
             },
             {
                 "price": 1520.1,
+                "url": "https://www.euronics.de/goch-thonnet/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1520.1,
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1520.1,
                 "url": "https://www.euronics.de/achern-schindler/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1520.1,
+                "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/waschen"
             },
             {
                 "price": 1529.1,
@@ -3228,142 +3100,6 @@
             {
                 "price": 1556.1,
                 "url": "https://www.euronics.de/bochum-klaes/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1556.1,
-                "url": "https://www.euronics.de/dingolfing-widbiller/markenwelt/miele/waschen"
-            }
-        ]
-    },
-    "WEB395WPS": {
-        "prices_urls": [
-            {
-                "price": 981.0,
-                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
-            },
-            {
-                "price": 989.1,
-                "url": "https://www.euronics.de/xxl-kaufbeuren-elektropark-allgaeu/markenwelt/miele/waschen"
-            },
-            {
-                "price": 989.1,
-                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
-            },
-            {
-                "price": 989.1,
-                "url": "https://www.euronics.de/xxl-ahaus-dieker/markenwelt/miele/waschen"
-            },
-            {
-                "price": 989.1,
-                "url": "https://www.euronics.de/xxl-lebach/markenwelt/miele/waschen"
-            },
-            {
-                "price": 989.99,
-                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1007.1,
-                "url": "https://www.euronics.de/xxl-ratingen-johann-und-wittmer/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1007.1,
-                "url": "https://www.euronics.de/goch-thonnet/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1007.1,
-                "url": "https://www.euronics.de/hamm-hensel/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1016.1,
-                "url": "https://www.euronics.de/cloppenburg-schloemer/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1016.1,
-                "url": "https://www.euronics.de/schmallenberg-pletzinger/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1016.1,
-                "url": "https://www.euronics.de/schwaebisch-hall-wolpert/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1016.1,
-                "url": "https://www.euronics.de/burgebrach-ludwig/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1016.1,
-                "url": "https://www.euronics.de/xxl-soltau/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1016.1,
-                "url": "https://www.euronics.de/xxl-warstein-eickhoff/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1016.1,
-                "url": "https://www.euronics.de/achern-schindler/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1016.1,
-                "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1016.99,
-                "url": "https://www.euronics.de/xxl-lauterbach/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1034.1,
-                "url": "https://www.euronics.de/beckum-pelkmann/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1034.1,
-                "url": "https://www.euronics.de/dueren-gunkel/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1034.36,
-                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/herdorf-orlik/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/xxl-tittling-lindbuechl/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/kirchheim-rembold/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/bersenbrueck-hugenberg/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/mainz-bauer/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1043.1,
-                "url": "https://www.euronics.de/dingolfing-widbiller/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1079.1,
-                "url": "https://www.euronics.de/xxl-einbeck/markenwelt/miele/waschen"
             }
         ]
     },
@@ -3398,8 +3134,72 @@
                 "url": "https://www.euronics.de/beckum-pelkmann/markenwelt/miele/waschen"
             },
             {
+                "price": 1277.1,
+                "url": "https://www.euronics.de/bad-soden-salmuenster-beisler/markenwelt/miele/waschen"
+            },
+            {
                 "price": 1331.1,
                 "url": "https://www.euronics.de/wertheim-diehm/markenwelt/miele/waschen"
+            }
+        ]
+    },
+    "WWG360WPS": {
+        "prices_urls": [
+            {
+                "price": 1196.1,
+                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1196.1,
+                "url": "https://www.euronics.de/schwaebisch-hall-wolpert/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1196.1,
+                "url": "https://www.euronics.de/xxl-tettnang/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1241.1,
+                "url": "https://www.euronics.de/beckum-pelkmann/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1241.99,
+                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1259.1,
+                "url": "https://www.euronics.de/xxl-delbrueck/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1259.1,
+                "url": "https://www.euronics.de/xxl-doebeln/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1259.1,
+                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1259.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1259.1,
+                "url": "https://www.euronics.de/xxl-ahaus-dieker/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1259.1,
+                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1277.1,
+                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1277.1,
+                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1331.1,
+                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/waschen"
             }
         ]
     },
@@ -3408,10 +3208,6 @@
             {
                 "price": 1159.2,
                 "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1169.1,
-                "url": "https://www.euronics.de/xxl-freyung-lindbuechl/markenwelt/miele/waschen"
             },
             {
                 "price": 1196.1,
@@ -3424,6 +3220,14 @@
             {
                 "price": 1232.1,
                 "url": "https://www.euronics.de/neubrandenburg-nehls/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1241.1,
+                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1250.1,
+                "url": "https://www.euronics.de/xxl-doebeln/markenwelt/miele/waschen"
             },
             {
                 "price": 1259.1,
@@ -3456,6 +3260,10 @@
             {
                 "price": 1079.1,
                 "url": "https://www.euronics.de/xxl-gera-maxi-media/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1167.3,
+                "url": "https://www.euronics.de/xxl-rheinbach-rotec/markenwelt/miele/waschen"
             },
             {
                 "price": 1259.1,
@@ -3503,15 +3311,7 @@
             },
             {
                 "price": 1304.1,
-                "url": "https://www.euronics.de/xxl-rheinbach-rotec/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1304.1,
                 "url": "https://www.euronics.de/xxl-bayreuth-baumann/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1313.36,
-                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
             },
             {
                 "price": 1349.1,
@@ -3524,10 +3324,22 @@
             {
                 "price": 1349.1,
                 "url": "https://www.euronics.de/xxl-naumburg/markenwelt/miele/waschen"
+            }
+        ]
+    },
+    "WDD131WPS": {
+        "prices_urls": [
+            {
+                "price": 1061.1,
+                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
             },
             {
-                "price": 1376.1,
-                "url": "https://www.euronics.de/dingolfing-widbiller/markenwelt/miele/waschen"
+                "price": 1097.1,
+                "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1115.1,
+                "url": "https://www.euronics.de/xxl-langenfeld-radio-city/markenwelt/miele/waschen"
             }
         ]
     },
@@ -3574,32 +3386,12 @@
                 "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
             },
             {
-                "price": 1349.1,
-                "url": "https://www.euronics.de/meerbusch-hartwig/markenwelt/miele/waschen"
-            },
-            {
                 "price": 1376.1,
                 "url": "https://www.euronics.de/xxl-langenfeld-radio-city/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1376.1,
-                "url": "https://www.euronics.de/dingolfing-widbiller/markenwelt/miele/waschen"
             },
             {
                 "price": 1439.1,
                 "url": "https://www.euronics.de/xxl-schoenebeck-haberstroh-und-boy/markenwelt/miele/waschen"
-            }
-        ]
-    },
-    "WDD131WPS": {
-        "prices_urls": [
-            {
-                "price": 899.1,
-                "url": "https://www.euronics.de/xxl-langenfeld-radio-city/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1097.1,
-                "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/waschen"
             }
         ]
     },
@@ -3706,8 +3498,8 @@
                 "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/waschen"
             },
             {
-                "price": 1682.1,
-                "url": "https://www.euronics.de/xxl-attendorn-corte/markenwelt/miele/waschen"
+                "price": 1691.1,
+                "url": "https://www.euronics.de/koeln-tietze/markenwelt/miele/waschen"
             },
             {
                 "price": 1745.1,
@@ -3750,12 +3542,8 @@
                 "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/waschen"
             },
             {
-                "price": 2321.1,
+                "price": 2339.1,
                 "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
-            },
-            {
-                "price": 2321.1,
-                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
             },
             {
                 "price": 2339.1,
@@ -3770,11 +3558,11 @@
                 "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
             },
             {
-                "price": 2348.1,
+                "price": 2357.1,
                 "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
             },
             {
-                "price": 2348.1,
+                "price": 2357.1,
                 "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
             },
             {
@@ -3795,74 +3583,6 @@
             }
         ]
     },
-    "WCI860WPS": {
-        "prices_urls": [
-            {
-                "price": 1223.72,
-                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1411.2,
-                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1412.1,
-                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1430.1,
-                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1430.1,
-                "url": "https://www.euronics.de/delbrueck-kersting/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1439.1,
-                "url": "https://www.euronics.de/bruehl-kastenholz/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1439.1,
-                "url": "https://www.euronics.de/berlin-brueckner/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1439.99,
-                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/waschen"
-            }
-        ]
-    },
-    "WCD120WPS": {
-        "prices_urls": [
-            {
-                "price": 899.98,
-                "url": "https://www.euronics.de/schopfheim-buehler/markenwelt/miele/waschen"
-            },
-            {
-                "price": 899.99,
-                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/waschen"
-            },
-            {
-                "price": 917.1,
-                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
-            },
-            {
-                "price": 935.1,
-                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
-            },
-            {
-                "price": 935.1,
-                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
-            },
-            {
-                "price": 935.1,
-                "url": "https://www.euronics.de/schwaebisch-hall-wolpert/markenwelt/miele/waschen"
-            },
-            {
-                "price": 935.1,
-                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
-            }
-        ]
-    },
     "PWM1108SmartBiz[ELDPTDos)GewerbeWaschmaschine/A": {
         "prices_urls": [
             {
@@ -3876,6 +3596,10 @@
             {
                 "price": 2087.1,
                 "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/waschen"
+            },
+            {
+                "price": 2150.1,
+                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
             },
             {
                 "price": 2150.1,
@@ -3911,47 +3635,15 @@
             }
         ]
     },
-    "WEI875WPS": {
-        "prices_urls": [
-            {
-                "price": 1259.1,
-                "url": "https://www.euronics.de/xxl-zeitz-maxi-media/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1259.1,
-                "url": "https://www.euronics.de/xxl-glauchau-maxi-media/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1259.1,
-                "url": "https://www.euronics.de/xxl-gera-maxi-media/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1395.0,
-                "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1439.1,
-                "url": "https://www.euronics.de/xxl-lebach/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1475.1,
-                "url": "https://www.euronics.de/xxl-moelln-otto/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1529.1,
-                "url": "https://www.euronics.de/kirchheim-rembold/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1529.1,
-                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
-            }
-        ]
-    },
     "WED335WPS": {
         "prices_urls": [
             {
                 "price": 989.1,
                 "url": "https://www.euronics.de/xxl-ahaus-dieker/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1034.99,
+                "url": "https://www.euronics.de/duesseldorf-granderath/markenwelt/miele/waschen"
             },
             {
                 "price": 1061.1,
@@ -3994,15 +3686,43 @@
                 "url": "https://www.euronics.de/xxl-vilshofen-menth/markenwelt/miele/waschen"
             },
             {
-                "price": 1079.1,
-                "url": "https://www.euronics.de/meerbusch-hartwig/markenwelt/miele/waschen"
-            },
-            {
                 "price": 1124.1,
                 "url": "https://www.euronics.de/witten-kutsch/markenwelt/miele/waschen"
             },
             {
                 "price": 1124.1,
+                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
+            }
+        ]
+    },
+    "WEI875WPS": {
+        "prices_urls": [
+            {
+                "price": 1259.1,
+                "url": "https://www.euronics.de/xxl-zeitz-maxi-media/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1259.1,
+                "url": "https://www.euronics.de/xxl-gera-maxi-media/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1395.0,
+                "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1439.1,
+                "url": "https://www.euronics.de/xxl-lebach/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1475.1,
+                "url": "https://www.euronics.de/xxl-moelln-otto/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1529.1,
+                "url": "https://www.euronics.de/kirchheim-rembold/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1529.1,
                 "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
             }
         ]
@@ -4044,10 +3764,6 @@
             {
                 "price": 944.1,
                 "url": "https://www.euronics.de/xxl-meitingen-frey-und-diessl/markenwelt/miele/waschen"
-            },
-            {
-                "price": 944.1,
-                "url": "https://www.euronics.de/tuebingen-betz/markenwelt/miele/waschen"
             }
         ]
     },
@@ -4072,10 +3788,6 @@
             {
                 "price": 899.1,
                 "url": "https://www.euronics.de/dresden-girrbach-haustechnik/markenwelt/miele/waschen"
-            },
-            {
-                "price": 935.1,
-                "url": "https://www.euronics.de/oelde-busch/markenwelt/miele/waschen"
             }
         ]
     },
@@ -4122,10 +3834,6 @@
                 "url": "https://www.euronics.de/xxl-naumburg/markenwelt/miele/waschen"
             },
             {
-                "price": 1709.1,
-                "url": "https://www.euronics.de/meerbusch-hartwig/markenwelt/miele/waschen"
-            },
-            {
                 "price": 1727.1,
                 "url": "https://www.euronics.de/xxl-einbeck/markenwelt/miele/waschen"
             }
@@ -4138,12 +3846,12 @@
                 "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
             },
             {
-                "price": 1079.72,
-                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
-            },
-            {
                 "price": 1151.1,
                 "url": "https://www.euronics.de/xxl-oehringen/markenwelt/miele/waschen"
+            },
+            {
+                "price": 1169.1,
+                "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
             },
             {
                 "price": 1178.1,
@@ -4178,6 +3886,10 @@
                 "url": "https://www.euronics.de/xxl-oehringen/markenwelt/miele/waschen"
             },
             {
+                "price": 854.1,
+                "url": "https://www.euronics.de/mengen-buck-mengen/markenwelt/miele/waschen"
+            },
+            {
                 "price": 890.99,
                 "url": "https://www.euronics.de/xxl-soltau/markenwelt/miele/waschen"
             },
@@ -4188,10 +3900,6 @@
             {
                 "price": 899.1,
                 "url": "https://www.euronics.de/xxl-fulda-efm/markenwelt/miele/waschen"
-            },
-            {
-                "price": 899.1,
-                "url": "https://www.euronics.de/tuebingen-betz/markenwelt/miele/waschen"
             },
             {
                 "price": 935.1,
@@ -4222,10 +3930,6 @@
                 "url": "https://www.euronics.de/xxl-ahaus-dieker/markenwelt/miele/waschen"
             },
             {
-                "price": 854.1,
-                "url": "https://www.euronics.de/krefeld-hgs/markenwelt/miele/waschen"
-            },
-            {
                 "price": 863.1,
                 "url": "https://www.euronics.de/celle-eltrofa-deecke/markenwelt/miele/waschen"
             },
@@ -4235,15 +3939,39 @@
             }
         ]
     },
+    "WCD120WPS": {
+        "prices_urls": [
+            {
+                "price": 899.98,
+                "url": "https://www.euronics.de/schopfheim-buehler/markenwelt/miele/waschen"
+            },
+            {
+                "price": 917.1,
+                "url": "https://www.euronics.de/lahnstein-huster/markenwelt/miele/waschen"
+            },
+            {
+                "price": 935.1,
+                "url": "https://www.euronics.de/lippstadt-schumacher/markenwelt/miele/waschen"
+            },
+            {
+                "price": 935.1,
+                "url": "https://www.euronics.de/sindelfingen-elsaesser/markenwelt/miele/waschen"
+            },
+            {
+                "price": 935.1,
+                "url": "https://www.euronics.de/schwaebisch-hall-wolpert/markenwelt/miele/waschen"
+            },
+            {
+                "price": 935.1,
+                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
+            }
+        ]
+    },
     "WWD120WPS": {
         "prices_urls": [
             {
                 "price": 926.1,
                 "url": "https://www.euronics.de/schwaebisch-hall-wolpert/markenwelt/miele/waschen"
-            },
-            {
-                "price": 926.1,
-                "url": "https://www.euronics.de/krefeld-hgs/markenwelt/miele/waschen"
             },
             {
                 "price": 934.2,
@@ -4258,7 +3986,7 @@
     "WWD129WPS": {
         "prices_urls": [
             {
-                "price": 944.1,
+                "price": 953.1,
                 "url": "https://www.euronics.de/xxl-ratingen-johann-und-wittmer/markenwelt/miele/waschen"
             }
         ]
@@ -4270,21 +3998,33 @@
                 "url": "https://www.euronics.de/xxl-beverungen-medien-markt/markenwelt/miele/waschen"
             },
             {
-                "price": 818.99,
-                "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/waschen"
+                "price": 809.1,
+                "url": "https://www.euronics.de/xxl-niebuell/markenwelt/miele/waschen"
             },
             {
-                "price": 836.1,
-                "url": "https://www.euronics.de/krefeld-hgs/markenwelt/miele/waschen"
+                "price": 818.99,
+                "url": "https://www.euronics.de/xxl-boeseleger/markenwelt/miele/waschen"
+            }
+        ]
+    },
+    "WCB210WCS": {
+        "prices_urls": [
+            {
+                "price": 782.99,
+                "url": "https://www.euronics.de/schmallenberg-pletzinger/markenwelt/miele/waschen"
+            },
+            {
+                "price": 809.1,
+                "url": "https://www.euronics.de/xxl-bensheim/markenwelt/miele/waschen"
+            },
+            {
+                "price": 809.1,
+                "url": "https://www.euronics.de/burgebrach-ludwig/markenwelt/miele/waschen"
             }
         ]
     },
     "WCA030WCS": {
         "prices_urls": [
-            {
-                "price": 719.1,
-                "url": "https://www.euronics.de/krefeld-hgs/markenwelt/miele/waschen"
-            },
             {
                 "price": 737.99,
                 "url": "https://www.euronics.de/xxl-doebeln/markenwelt/miele/waschen"
@@ -4308,10 +4048,6 @@
             {
                 "price": 1170.0,
                 "url": "https://www.euronics.de/xxl-vilshofen-menth/markenwelt/miele/waschen"
-            },
-            {
-                "price": 1241.1,
-                "url": "https://www.euronics.de/xxl-freyung-lindbuechl/markenwelt/miele/waschen"
             },
             {
                 "price": 1349.1,
